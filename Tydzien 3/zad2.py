@@ -1,0 +1,1 @@
+#Nie mam pojecia jak zrobic.
