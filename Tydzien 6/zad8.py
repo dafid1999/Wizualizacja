@@ -42,10 +42,6 @@ p1,p2=funkcja(macierz,"blabla")
 print(p1)
 print(p2)
 
-przyklad=np.array([[ y for y in range(x*4+1,x*4+4+1)] for x in range(0,4)] )
-print(przyklad)
-p1,p2=funkcja(przyklad,"pionowo")
-print(p1)
-print(p2)
+
 
 
